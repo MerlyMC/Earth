@@ -14,17 +14,17 @@ body {
 }
 
 .bg1 {
-    background-image: url('background1.jpg');
+    background-image: url('images/start.jpg');
     background-size: cover;
 }
 
 .bg2 {
-    background-image: url('background2.jpg');
+    background-image: url('images/after.jpg');
     background-size: cover;
 }
 
 .bg3 {
-    background-image: url('background3.jpg');
+    background-image: url('images/end.jpg');
     background-size: cover;
 }
 
