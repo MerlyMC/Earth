@@ -21,7 +21,8 @@ body {
 
 .bg2 {
     background-image: url('images/after.jpg');
-    background-size: cover;
+    background-size: contain;
+    
 }
 
 .bg3 {
