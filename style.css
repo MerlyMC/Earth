@@ -22,7 +22,6 @@ body {
 .bg2 {
     background-image: url('images/after.jpg');
     background-size: contain;
-    background-size: 100vw, 100vw;
     
 }
 
